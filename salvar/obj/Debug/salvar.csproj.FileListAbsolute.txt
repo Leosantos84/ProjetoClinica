@@ -1,0 +1,10 @@
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\bin\Debug\salvar.exe.config
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\bin\Debug\salvar.exe
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\bin\Debug\salvar.pdb
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\obj\Debug\salvar.csprojResolveAssemblyReference.cache
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\obj\Debug\salvar.Form1.resources
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\obj\Debug\salvar.Properties.Resources.resources
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\obj\Debug\salvar.csproj.GenerateResource.Cache
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\obj\Debug\salvar.exe
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\obj\Debug\salvar.pdb
+C:\Ivanilson_Santos\03_CSharp\Projetos\Clinica\salvar\salvar\obj\Debug\salvar.FPacientes.resources
